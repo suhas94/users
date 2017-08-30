@@ -1,6 +1,33 @@
 {
-    "users": [
-        { "id": "23", "firstName": "Billion", "age": "20" },
-        { "id": "47", "firstName": "Neff", "age": "21" }
-    ]
+  "users": [
+    {
+      "id": "47",
+      "firstName": "Alex",
+      "age": "21",
+      "companyId": "2"
+    },
+    {
+      "id": "22",
+      "firstName": "Bill",
+      "age": "20",
+      "companyId": "1"
+    },
+    {
+      "firstName": "Nabihah",
+      "age": 26,
+      "id": "S19Ge0XF-"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "shoGigs",
+      "description": "expediting gig search"
+    },
+    {
+      "id": "2",
+      "name": "Apple",
+      "description": "iPhone"
+    }
+  ]
 }
